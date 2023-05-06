@@ -1,0 +1,88 @@
+ 
+.navbarm{
+    font-size: x-large;
+    font-family: cursive;
+    background-color: rgb(116, 123, 180);
+
+}
+.navbar-nav li{
+    margin-right: 50px;
+}
+.buttonn{
+    margin-top: 20px;
+   margin-left: 46%;
+    border-radius: 30px;
+}
+
+.backimage{
+    margin-top: -10px;
+    width: 100vw;
+    height: 90vh;
+}
+
+  
+.main{
+    background-image: url("Eu7aQJCWQAUU0ba.jpg");
+    background-size: 100vw 90vh ;
+    width: 100vw;
+    height: 90vh;
+    
+}
+.main h1{
+    margin-left: 36%;
+    padding-top: 300px;
+    color:  rgb(25, 26, 24);
+}
+
+.main h2{
+    font-size: 50px;
+    margin-left: 35%;
+    padding-top: 20px;
+    color: rgb(34, 34, 32);
+}
+#photoTitle {
+    margin-left: 46%;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+}
+.column{
+    display: flex;
+   gap: 10px ;
+   flex-direction: column;
+}
+.im{
+    max-width: 400px;
+    
+}
+footer img{
+    margin-left: 180px;
+    margin-top: 12%;
+}
+footer{
+    background-image: url("images.jpg");
+    background-size: 100vw 90vh;
+    width: 100vw;
+    height: 90vh;
+}
+
+.btnnn{
+    border-radius: 30px;
+    margin-left: 100px;
+}
+.immm{
+    margin-left: 60%;
+    font-size: xx-large;
+    color: rgb(40, 37, 43);
+    font-weight: 800;
+    margin-top: -250px;
+}
+.col-md-3 a{
+    text-decoration: none;
+    color: rgb(175, 182, 189);
+}
+.list-unstyled a:hover{
+    font-size: larger;
+}
